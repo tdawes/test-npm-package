@@ -1,0 +1,8 @@
+{
+  "name": "@tdawes/test-npm-package",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/tdawes/test-npm-package",
+  "author": "Tom Dawes <tomdawes91@gmail.com>",
+  "license": "MIT"
+}
